@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Antonio
 
-<!--
-**JoseAog/JoseAog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 En transición hacia una carrera en **Programación y Ciberseguridad**.
+🚀 Objetivo: en 2026 estar trabajando como **SOC Analyst / Pentester Jr.**
+⚡ Me motiva el reto de aprender cada dia y construir proyectos reales.
+---
 
-Here are some ideas to get you started:
+### ⚒️ Tecnologias y herramientas que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Python 🐍 (aprendiendo desde fundamentos hasta ciberseguridad)
+- **Herrramientas de ciberseguridad:** TryHackMe, HackTheBox (en progreso)
+- **Control de versiones:** Git & GitHub
+- **Sistemas:** Windows & Linux
+---
+
+### 📂 Mis proyectos y laboratorios
+
+[Python-labs] (https://github.com/JoseAog/Python-labs) → Ejercicios y laboratorios de Python organizados por bloques.
+- Más repositorios en camino...
+---
+
+### 📈 Objetivo de formación 2025-2027
+Fundamentos de Python y programación.
+Redes, Linux y fundamentos de ciberseguridad
+Laboratorios prácticos en **TryHackMe / HackTheBox**
+Certificaciones iniciales:
+Security +, eJPT, AZ-500
+Portafolio en GitHub con proyectos aplicados
+---
+
+### 🌐 Conecta conmigo
+- LinkedIn:
+- GitHub: [JoseAog](https://github.com/JoseAog)
