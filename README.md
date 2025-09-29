@@ -29,5 +29,5 @@ Portafolio en GitHub con proyectos aplicados
 ---
 
 ### 🌐 Conecta conmigo
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/jose-antonio-ordóñez-godoy-12a536370
 - GitHub: [JoseAog](https://github.com/JoseAog)
