@@ -24,7 +24,7 @@ Fundamentos de Python y programación.
 Redes, Linux y fundamentos de ciberseguridad
 Laboratorios prácticos en **TryHackMe / HackTheBox**
 Certificaciones iniciales:
-Security +, eJPT, AZ-500
+Security +, CS50 Introduction to cibersecurity
 Portafolio en GitHub con proyectos aplicados
 ---
 
