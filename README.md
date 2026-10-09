@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jose Antonio
 
 💻 En transición hacia una carrera en **Programación y Ciberseguridad**.
-🚀 Objetivo: en 2026 estar trabajando como **SOC Analyst.**
+🚀 Objetivo: en 2027 estar trabajando como **SOC Analyst.**
 ⚡ Me motiva el reto de aprender cada dia y construir proyectos reales.
 ---
 
